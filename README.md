@@ -1,3 +1,4 @@
+这是一个OpenClaw Skill
 ---
 name: pdf-watermark-remover
 description: 去除PDF中的旋转/斜体文字水印，保留正文完整
